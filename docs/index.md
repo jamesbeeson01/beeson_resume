@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: James Beeson's Resume
 ---
-# Brigham Young
+# James Beeson
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
@@ -17,26 +17,36 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 ## Education
 
 `2025-2027`
-__LDS Business College__, Salt Lake City, UT
+__Brigham Young University - Idaho__, Salt Lake City, UT
 
 - Full academic scholarship with 4.0 GPA
 
 `Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+__Weber State University__, Rexburg, ID
 
 - 4.0 Major GPA
+
+Data Science Bachelors | Brigham Young University - Idaho | Rexburg, ID April 2025
+Associate of Science | Weber State University | Ogden, UT May 2023
+Computer Programming Certificate of Proficiency | Weber State University | Ogden, UT September 2020
 
 
 ## Related Experience
 
-### Internships
+### Telecommunications Engineer
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`April 2022 - Present`
+__Niels Fugal and Sons Construction __, Syracuse, UT
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+•	Navigate ambiguous design decisions, finding answers to complex questions to design cost effective, quick, and efficient step by step instructions for construction of fiber internet to homes. 
+•	Analyze, organize, and interpret data sets up to 1,000 lines in Excel and Google Sheets to compare product output and employee performance.
+•	Teach 6 other Engineers best practices and software to improve efficiency in their roles.
+•	Adapt to new responsibilities every 3 months according to team needs to remove performance bottlenecks.
+•	Create new systems and Excel tools to improve employee performance and productivity.
+•	Learn new software often and communicate software skills to teammates in a constantly evolving environment.
+•	Adapt to constantly changing technologies, new software, and updated guidelines for a new and growing team.
+•	Collaborate with experts to discover and apply best practices.
+
 
 ### Data Science Lead
 
