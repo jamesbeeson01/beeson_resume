@@ -16,19 +16,14 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__Brigham Young University - Idaho__, Salt Lake City, UT
+`Expected April 2025`
+__Data Science Bachelors__, _Brigham Young University - Idaho_, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+`May 2023`
+__Associate of Science__, _Weber State University_, Ogden, UT
 
-`Expected 2029`
-__Weber State University__, Rexburg, ID
-
-- 4.0 Major GPA
-
-Data Science Bachelors | Brigham Young University - Idaho | Rexburg, ID April 2025
-Associate of Science | Weber State University | Ogden, UT May 2023
-Computer Programming Certificate of Proficiency | Weber State University | Ogden, UT September 2020
+`September 2020`
+__Computer Programming Certificate of Proficiency__, _Weber State University_, Ogden, UT
 
 
 ## Related Experience
@@ -36,7 +31,7 @@ Computer Programming Certificate of Proficiency | Weber State University | Ogden
 ### Telecommunications Engineer
 
 `April 2022 - Present`
-__Niels Fugal and Sons Construction__, Syracuse, UT
+__Telecommunications Engineer__ - _Niels Fugal and Sons Construction_, Syracuse, UT
 
 - Navigate ambiguous design decisions, finding answers to complex questions to design cost effective, quick, and efficient step by step instructions for construction of fiber internet to homes. 
 - Analyze, organize, and interpret data sets up to 1,000 lines in Excel and Google Sheets to compare product output and employee performance.
@@ -77,6 +72,11 @@ __Teleperformance__, Ogden, UT
 - Cared for and empathized with individuals struggling with life’s challenges and taught principles of safety and encouragement according to their own needs.
 - Utilized Excel Spreadsheets, Facebook Messenger, and email to interact with and manage team of 9.
 
+## Skills
+
+- Data Wrangling Pandas Python, SQL
+- Machine Learning scikit-learn
+- Object-oriented Programming C++, Python
 
 ## Projects
 
