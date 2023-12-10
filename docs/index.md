@@ -5,7 +5,7 @@ title: James Beeson
 
 
 <div id="webaddress">
-<a href="jamesbeeson01@byui.edu">jamesbeeson01@byui.edu</a>
+<a href="jamesbeeson01@gmail.com">jamesbeeson01@gmail.com</a>
 | <a href="linkedin.com/in/james-m-beeson">LinkedIn</a>
 | <a href="https://github.com/jamesbeeson01">GitHub</a>
 </div>
