@@ -1,8 +1,7 @@
 ---
 layout: cv
-title: James Beeson's Resume
+title: James Beeson
 ---
-# James Beeson
 
 
 <div id="webaddress">
@@ -15,14 +14,12 @@ title: James Beeson's Resume
 
 ## Education
 
-`Expected April 2025`
-__Data Science Bachelors__, _Brigham Young University - Idaho_, Rexburg, ID
 
-`May 2023`
-__Associate of Science__, _Weber State University_, Ogden, UT
+__Data Science Bachelors__, _Brigham Young University - Idaho_, Rexburg, ID | Expected Apr 2025
 
-`September 2020`
-__Computer Programming Certificate of Proficiency__, _Weber State University_, Ogden, UT
+__Associate of Science__, _Weber State University_, Ogden, UT | May 2023
+
+__Computer Programming Certificate of Proficiency__, _Weber State University_, Ogden, UT | Sept 2020
 
 
 ## Skills
@@ -34,8 +31,7 @@ __Computer Programming Certificate of Proficiency__, _Weber State University_, O
 
 ## Related Experience
 
-`April 2022 - Present`
-__Telecommunications Engineer__ | _Niels Fugal and Sons Construction_ | Syracuse, UT
+__Telecommunications Engineer__ | _Niels Fugal and Sons Construction_ | Syracuse, UT | Apr 2022 - Present
 
 - Navigate ambiguous design decisions, finding answers to complex questions to design cost effective, quick, and efficient step by step instructions for construction of fiber internet to homes. 
 - Analyze, organize, and interpret data sets up to 1,000 lines in Excel and Google Sheets to compare product output and employee performance.
@@ -47,8 +43,7 @@ __Telecommunications Engineer__ | _Niels Fugal and Sons Construction_ | Syracuse
 - Collaborate with experts to discover and apply best practices.
 
 
-`April 2021 - December 2021`
-__Direct Support Professional__ | _Family Partners LLC_ | Goodyear, AZ
+__Direct Support Professional__ | _Family Partners LLC_ | Goodyear, AZ | Apr 2021 - Dec 2021
 
 - Provided for 4-12 developmentally disabled adults per day, meeting individual needs, teaching life skills, and supporting a joyful day.
 - Identified emotions and abilities of disabled adults, showed empathy, and adapted the day’s schedule to their daily needs.
@@ -56,15 +51,13 @@ __Direct Support Professional__ | _Family Partners LLC_ | Goodyear, AZ
 - Organized a cabinet of paperwork and other items to bring order to a previously confusing and cluttered workspace.
 
 
-`August 2020 - March 2021`
-__Customer Service__ | _Teleperformance_ | Ogden, UT
+__Customer Service__ | _Teleperformance_ | Ogden, UT | Aug 2020 - Mar 2021
 
 - Received up to 12 calls per hour, listening to concerns, troubleshooting technical issues, and answering product questions.
 - Maintained positive client relations with insurance partners while working in tandem to provide insurance benefits to their clients.
 
 
-`August 2017 - August 2019`
-__Volunteer Full-Time__ | _The Church of Jesus Christ of Latter-Day Saints_ | Mesa, AZ
+__Volunteer Full-Time__ | _The Church of Jesus Christ of Latter-Day Saints_ | Mesa, AZ | Aug 2017 - Aug 2019
 
 - Led team of 9, identifying and applying individual strengths to empower others toward better lives.
 - Cared for and empathized with individuals struggling with life’s challenges and taught principles of safety and encouragement according to their own needs.
