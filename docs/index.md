@@ -33,8 +33,9 @@ __Computer Programming Certificate of Proficiency__, _Weber State University_, O
 
 __Telecommunications Engineer__ | _Niels Fugal and Sons Construction_ | Syracuse, UT | Apr 2022 - Present
 
-- Navigate ambiguous design decisions, finding answers to complex questions to design cost effective, quick, and efficient step by step instructions for construction of fiber internet to homes. 
-- Analyze, organize, and interpret data sets up to 1,000 lines in Excel and Google Sheets to compare product output and employee performance.
+- Implement database application to replace various spreadsheets for a team of 15.
+- Clean spreadsheet data sets using Pandas Python for more accurate information.
+- Navigate ambiguous engineering design decisions, finding answers to complex questions to design cost effective, quick, and efficient step by step instructions for construction of fiber internet to homes.
 - Teach 6 other Engineers best practices and software to improve efficiency in their roles.
 - Adapt to new responsibilities every 3 months according to team needs to remove performance bottlenecks.
 - Create new systems and Excel tools to improve employee performance and productivity.
